@@ -1,0 +1,9 @@
+Flask
+ultralytics
+gradio
+pandas
+deepface
+pillow
+opencv-python
+mtcnn
+matplotlib
